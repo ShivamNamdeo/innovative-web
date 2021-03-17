@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shivamnamdeo.github.io/innovative-web/static/css/main.62781f47.chunk.css",
+    "main.js": "/shivamnamdeo.github.io/innovative-web/static/js/main.bd7ccefe.chunk.js",
+    "main.js.map": "/shivamnamdeo.github.io/innovative-web/static/js/main.bd7ccefe.chunk.js.map",
+    "runtime-main.js": "/shivamnamdeo.github.io/innovative-web/static/js/runtime-main.30835dce.js",
+    "runtime-main.js.map": "/shivamnamdeo.github.io/innovative-web/static/js/runtime-main.30835dce.js.map",
+    "static/css/2.34b29efe.chunk.css": "/shivamnamdeo.github.io/innovative-web/static/css/2.34b29efe.chunk.css",
+    "static/js/2.58f12f0c.chunk.js": "/shivamnamdeo.github.io/innovative-web/static/js/2.58f12f0c.chunk.js",
+    "static/js/2.58f12f0c.chunk.js.map": "/shivamnamdeo.github.io/innovative-web/static/js/2.58f12f0c.chunk.js.map",
+    "static/js/3.9f2e5903.chunk.js": "/shivamnamdeo.github.io/innovative-web/static/js/3.9f2e5903.chunk.js",
+    "static/js/3.9f2e5903.chunk.js.map": "/shivamnamdeo.github.io/innovative-web/static/js/3.9f2e5903.chunk.js.map",
+    "index.html": "/shivamnamdeo.github.io/innovative-web/index.html",
+    "static/css/2.34b29efe.chunk.css.map": "/shivamnamdeo.github.io/innovative-web/static/css/2.34b29efe.chunk.css.map",
+    "static/css/main.62781f47.chunk.css.map": "/shivamnamdeo.github.io/innovative-web/static/css/main.62781f47.chunk.css.map",
+    "static/js/2.58f12f0c.chunk.js.LICENSE.txt": "/shivamnamdeo.github.io/innovative-web/static/js/2.58f12f0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30835dce.js",
+    "static/css/2.34b29efe.chunk.css",
+    "static/js/2.58f12f0c.chunk.js",
+    "static/css/main.62781f47.chunk.css",
+    "static/js/main.bd7ccefe.chunk.js"
+  ]
+}
